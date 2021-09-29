@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.d4ef491c.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.0f1dd3a3.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.0f1dd3a3.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.06bd8f65.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.06bd8f65.js.map",
+    "static/css/2.6293a573.chunk.css": "/reactlivewebsite/static/css/2.6293a573.chunk.css",
+    "static/js/2.4277aed3.chunk.js": "/reactlivewebsite/static/js/2.4277aed3.chunk.js",
+    "static/js/2.4277aed3.chunk.js.map": "/reactlivewebsite/static/js/2.4277aed3.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/reactlivewebsite/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.d4ef491c.chunk.css.map": "/reactlivewebsite/static/css/main.d4ef491c.chunk.css.map",
+    "static/js/2.4277aed3.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.4277aed3.chunk.js.LICENSE.txt",
+    "static/media/marketing.816ea933.jpg": "/reactlivewebsite/static/media/marketing.816ea933.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06bd8f65.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.4277aed3.chunk.js",
+    "static/css/main.d4ef491c.chunk.css",
+    "static/js/main.0f1dd3a3.chunk.js"
+  ]
+}
